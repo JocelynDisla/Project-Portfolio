@@ -1,0 +1,5 @@
+Credit Loan Prediction Analysis
+
+Collected a dataset from Kaggle.com with over 32,000 data entries to predict individuals’ loan approval status before officially submitting a loan application. 
+A random forest model and a logistic regression model were applied to data. The accuracy and classification reports were calculated in order to evaluate each model. 
+Feature Importance demonstrated that the loan amount compared to one’s income had the greatest impact on the applicant’s loan approval status
