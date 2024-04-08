@@ -1,0 +1,3 @@
+API Dataset Preparation
+Retrieving information from public API {Freelancer.com}
+Cleaning the data to transform into a dataframe to then use for insights
