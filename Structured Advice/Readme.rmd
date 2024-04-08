@@ -1,0 +1,4 @@
+Structured Advice
+
+This Project goes in depth on the resoultion for minimizing product shelf lives for companies. The project uses a large dataset to be able to apply and fit a random forest algortihm. 
+  THe algorthim is used to calculate the most impactful features as well as which products will perform the best based off the dataset. The results were inconclusive since the accuracy was just barely any higher than a random guess. With that said, this project provided many insights into the process and impacting features that is very beneficial. 
